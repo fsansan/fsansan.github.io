@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    RedCloth (4.2.9)
+    RedCloth (>=4.3.0)
     activesupport (4.2.4)
       i18n (~> 0.7)
       json (~> 1.7, >= 1.7.7)
@@ -108,7 +108,6 @@ GEM
       ffi (>= 1.9.24)
     rdiscount (2.1.7)
     redcarpet (3.3.2)
-    redcloth (>= 4.3.0)
     safe_yaml (1.0.4)
     sass (3.4.18)
     terminal-table (1.5.2)
