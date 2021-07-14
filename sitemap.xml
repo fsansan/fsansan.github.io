@@ -11,4 +11,9 @@
     {% for page in site.pages %}
     {% if page.layout != nil %}
     {% if page.layout != 'feed' %}
+    
+    
+    {% endif %}
+    {% endif %}
+    {% endfor %}
 </urlset>
